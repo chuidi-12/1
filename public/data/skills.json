@@ -6,15 +6,15 @@
       "link": "https://github.com/anthropics/skills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 199686,
-      "forks": 23369,
+      "stars": 200219,
+      "forks": 23414,
       "language": "Python",
       "topics": [
         "agent-skills"
       ],
       "pushed_at": "2026-11-16T14:22:50Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.932942"
+      "crawled_at": "2026-11-25T10:48:59.041629"
     },
     {
       "name": "DietrichGebert/ponytail",
@@ -22,8 +22,8 @@
       "link": "https://github.com/DietrichGebert/ponytail",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 197791,
-      "forks": 11191,
+      "stars": 198397,
+      "forks": 11239,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -39,7 +39,7 @@
       ],
       "pushed_at": "2026-11-22T02:31:58Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.932978"
+      "crawled_at": "2026-11-25T10:48:59.041663"
     },
     {
       "name": "Leonxlnx/taste-skill",
@@ -47,8 +47,8 @@
       "link": "https://github.com/Leonxlnx/taste-skill",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 120907,
-      "forks": 8115,
+      "stars": 121330,
+      "forks": 8145,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -63,9 +63,9 @@
         "ui-design",
         "web-design"
       ],
-      "pushed_at": "2026-11-24T10:34:23Z",
+      "pushed_at": "2026-11-25T09:10:22Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.932987"
+      "crawled_at": "2026-11-25T10:48:59.041676"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -73,8 +73,8 @@
       "link": "https://github.com/addyosmani/agent-skills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 120106,
-      "forks": 12482,
+      "stars": 120318,
+      "forks": 12511,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -86,7 +86,7 @@
       ],
       "pushed_at": "2026-11-24T07:11:17Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.932996"
+      "crawled_at": "2026-11-25T10:48:59.041689"
     },
     {
       "name": "thedotmack/claude-mem",
@@ -94,8 +94,8 @@
       "link": "https://github.com/thedotmack/claude-mem",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 119436,
-      "forks": 10378,
+      "stars": 119647,
+      "forks": 10396,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -119,9 +119,9 @@
         "sqlite",
         "supermemory"
       ],
-      "pushed_at": "2026-11-24T07:45:22Z",
+      "pushed_at": "2026-11-25T10:32:04Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164765"
+      "crawled_at": "2026-11-25T10:48:56.828737"
     },
     {
       "name": "paperclipai/paperclip",
@@ -129,8 +129,8 @@
       "link": "https://github.com/paperclipai/paperclip",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 116563,
-      "forks": 19349,
+      "stars": 116888,
+      "forks": 19407,
       "language": "TypeScript",
       "topics": [
         "acpx",
@@ -154,9 +154,9 @@
         "project-management",
         "workflow-automation"
       ],
-      "pushed_at": "2026-11-24T10:00:34Z",
+      "pushed_at": "2026-11-25T10:44:13Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164797"
+      "crawled_at": "2026-11-25T10:48:56.828775"
     },
     {
       "name": "nexu-io/open-design",
@@ -164,8 +164,8 @@
       "link": "https://github.com/nexu-io/open-design",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 109262,
-      "forks": 12354,
+      "stars": 109411,
+      "forks": 12363,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -189,9 +189,9 @@
         "ui-generator",
         "vibe-coding"
       ],
-      "pushed_at": "2026-11-24T01:09:34Z",
+      "pushed_at": "2026-11-25T01:09:24Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933009"
+      "crawled_at": "2026-11-25T10:48:59.041711"
     },
     {
       "name": "tt-a1i/archify",
@@ -199,8 +199,8 @@
       "link": "https://github.com/tt-a1i/archify",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 99364,
-      "forks": 6800,
+      "stars": 99729,
+      "forks": 6826,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -224,9 +224,9 @@
         "system-design",
         "visualization"
       ],
-      "pushed_at": "2026-11-24T01:27:41Z",
+      "pushed_at": "2026-11-25T08:52:37Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164809"
+      "crawled_at": "2026-11-25T10:48:56.828793"
     },
     {
       "name": "Egonex-AI/Understand-Anything",
@@ -234,8 +234,8 @@
       "link": "https://github.com/Egonex-AI/Understand-Anything",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 93947,
-      "forks": 7980,
+      "stars": 94264,
+      "forks": 8014,
       "language": "TypeScript",
       "topics": [
         "antigravity-skills",
@@ -256,9 +256,9 @@
         "understandcode",
         "vibe-coding"
       ],
-      "pushed_at": "2026-11-24T10:22:47Z",
+      "pushed_at": "2026-11-25T06:30:57Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164831"
+      "crawled_at": "2026-11-25T10:48:56.828821"
     },
     {
       "name": "heygen-com/hyperframes",
@@ -266,8 +266,8 @@
       "link": "https://github.com/heygen-com/hyperframes",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 89254,
-      "forks": 8324,
+      "stars": 89845,
+      "forks": 8373,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -291,9 +291,9 @@
         "video-editor",
         "video-generation"
       ],
-      "pushed_at": "2026-11-24T11:55:40Z",
+      "pushed_at": "2026-11-25T10:48:29Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933020"
+      "crawled_at": "2026-11-25T10:48:59.041728"
     },
     {
       "name": "career-ops-hq/career-ops",
@@ -301,8 +301,8 @@
       "link": "https://github.com/career-ops-hq/career-ops",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 84519,
-      "forks": 15463,
+      "stars": 84726,
+      "forks": 15496,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -326,9 +326,9 @@
         "open-source",
         "resume"
       ],
-      "pushed_at": "2026-11-24T11:24:07Z",
+      "pushed_at": "2026-11-25T05:52:46Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933039"
+      "crawled_at": "2026-11-25T10:48:59.041755"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -336,8 +336,8 @@
       "link": "https://github.com/ComposioHQ/awesome-claude-skills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 80215,
-      "forks": 9850,
+      "stars": 80272,
+      "forks": 9869,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -360,7 +360,7 @@
       ],
       "pushed_at": "2026-09-18T07:16:11Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933051"
+      "crawled_at": "2026-11-25T10:48:59.041773"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -368,8 +368,8 @@
       "link": "https://github.com/mvanhorn/last30days-skill",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 73794,
-      "forks": 6513,
+      "stars": 74673,
+      "forks": 6583,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -393,9 +393,9 @@
         "twitter",
         "youtube"
       ],
-      "pushed_at": "2026-11-24T10:56:35Z",
+      "pushed_at": "2026-11-25T06:31:14Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933060"
+      "crawled_at": "2026-11-25T10:48:59.041785"
     },
     {
       "name": "blader/humanizer",
@@ -403,8 +403,8 @@
       "link": "https://github.com/blader/humanizer",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 72946,
-      "forks": 5720,
+      "stars": 73395,
+      "forks": 5754,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -423,7 +423,7 @@
       ],
       "pushed_at": "2026-11-19T18:53:14Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933070"
+      "crawled_at": "2026-11-25T10:48:59.041800"
     },
     {
       "name": "cathrynlavery/diagram-design",
@@ -431,8 +431,8 @@
       "link": "https://github.com/cathrynlavery/diagram-design",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 71443,
-      "forks": 4771,
+      "stars": 72510,
+      "forks": 4824,
       "language": "HTML",
       "topics": [
         "agent-skills",
@@ -444,9 +444,9 @@
         "mermaid",
         "svg"
       ],
-      "pushed_at": "2026-11-23T11:00:38Z",
+      "pushed_at": "2026-11-25T04:53:00Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933078"
+      "crawled_at": "2026-11-25T10:48:59.041811"
     },
     {
       "name": "code-yeongyu/oh-my-openagent",
@@ -454,8 +454,8 @@
       "link": "https://github.com/code-yeongyu/oh-my-openagent",
       "category": "Document Parsing",
       "source": "github-trending",
-      "stars": 71093,
-      "forks": 5838,
+      "stars": 71102,
+      "forks": 5839,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -474,9 +474,9 @@
         "tui",
         "typescript"
       ],
-      "pushed_at": "2026-11-24T11:53:55Z",
+      "pushed_at": "2026-11-25T10:48:55Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164837"
+      "crawled_at": "2026-11-25T10:48:56.828831"
     },
     {
       "name": "coreyhaines31/marketingskills",
@@ -484,8 +484,8 @@
       "link": "https://github.com/coreyhaines31/marketingskills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 62347,
-      "forks": 9111,
+      "stars": 62537,
+      "forks": 9127,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -511,7 +511,7 @@
       ],
       "pushed_at": "2026-11-24T01:53:15Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164851"
+      "crawled_at": "2026-11-25T10:48:56.828855"
     },
     {
       "name": "ayghri/i-have-adhd",
@@ -519,8 +519,8 @@
       "link": "https://github.com/ayghri/i-have-adhd",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 62113,
-      "forks": 3645,
+      "stars": 62238,
+      "forks": 3653,
       "language": "Python",
       "topics": [
         "adhd",
@@ -532,7 +532,7 @@
       ],
       "pushed_at": "2026-10-19T19:46:23Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164861"
+      "crawled_at": "2026-11-25T10:48:56.828869"
     },
     {
       "name": "emilkowalski/skills",
@@ -540,8 +540,8 @@
       "link": "https://github.com/emilkowalski/skills",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 59193,
-      "forks": 3485,
+      "stars": 59400,
+      "forks": 3503,
       "language": "Markdown",
       "topics": [
         "agent-skills",
@@ -553,7 +553,7 @@
       ],
       "pushed_at": "2026-11-15T12:42:50Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933084"
+      "crawled_at": "2026-11-25T10:48:59.041821"
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
@@ -561,8 +561,8 @@
       "link": "https://github.com/hesreallyhim/awesome-claude-code",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 58710,
-      "forks": 5010,
+      "stars": 58766,
+      "forks": 5017,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -585,9 +585,9 @@
         "coding-assistants",
         "llm"
       ],
-      "pushed_at": "2026-11-24T09:07:51Z",
+      "pushed_at": "2026-11-25T09:07:37Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933103"
+      "crawled_at": "2026-11-25T10:48:59.041848"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -595,8 +595,8 @@
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 58312,
-      "forks": 5108,
+      "stars": 58427,
+      "forks": 5121,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -619,7 +619,7 @@
       ],
       "pushed_at": "2026-11-23T09:18:27Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164887"
+      "crawled_at": "2026-11-25T10:48:56.828908"
     },
     {
       "name": "VoltAgent/awesome-openclaw-skills",
@@ -627,7 +627,7 @@
       "link": "https://github.com/VoltAgent/awesome-openclaw-skills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 53967,
+      "stars": 53979,
       "forks": 5073,
       "language": "",
       "topics": [
@@ -646,7 +646,7 @@
       ],
       "pushed_at": "2026-11-18T14:56:54Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933124"
+      "crawled_at": "2026-11-25T10:48:59.041877"
     },
     {
       "name": "CherryHQ/cherry-studio",
@@ -654,8 +654,8 @@
       "link": "https://github.com/CherryHQ/cherry-studio",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 53815,
-      "forks": 5263,
+      "stars": 53864,
+      "forks": 5270,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -672,9 +672,9 @@
         "ollama",
         "rag"
       ],
-      "pushed_at": "2026-11-24T11:56:21Z",
+      "pushed_at": "2026-11-25T10:48:28Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933135"
+      "crawled_at": "2026-11-25T10:48:59.041893"
     },
     {
       "name": "obsidianmd/obsidian-skills",
@@ -682,8 +682,8 @@
       "link": "https://github.com/obsidianmd/obsidian-skills",
       "category": "Document Parsing",
       "source": "github-trending",
-      "stars": 53596,
-      "forks": 3816,
+      "stars": 53710,
+      "forks": 3828,
       "language": "Shell",
       "topics": [
         "agents",
@@ -709,7 +709,7 @@
       ],
       "pushed_at": "2026-11-20T19:22:47Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164895"
+      "crawled_at": "2026-11-25T10:48:56.828920"
     },
     {
       "name": "sickn33/agentic-awesome-skills",
@@ -717,8 +717,8 @@
       "link": "https://github.com/sickn33/agentic-awesome-skills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 50239,
-      "forks": 7289,
+      "stars": 50300,
+      "forks": 7299,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -742,9 +742,9 @@
         "mcp",
         "skill-library"
       ],
-      "pushed_at": "2026-11-24T11:56:35Z",
+      "pushed_at": "2026-11-24T13:59:11Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217111"
+      "crawled_at": "2026-11-25T10:48:57.986175"
     },
     {
       "name": "reactive-resume/reactive-resume",
@@ -752,8 +752,8 @@
       "link": "https://github.com/reactive-resume/reactive-resume",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 46039,
-      "forks": 4967,
+      "stars": 46093,
+      "forks": 4969,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -769,7 +769,7 @@
       ],
       "pushed_at": "2026-11-20T03:14:03Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.933145"
+      "crawled_at": "2026-11-25T10:48:59.041907"
     },
     {
       "name": "wshobson/agents",
@@ -777,8 +777,8 @@
       "link": "https://github.com/wshobson/agents",
       "category": "Document Parsing",
       "source": "github-trending",
-      "stars": 42861,
-      "forks": 4536,
+      "stars": 42875,
+      "forks": 4542,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -802,9 +802,9 @@
         "pi-coding-agent",
         "subagents"
       ],
-      "pushed_at": "2026-11-24T01:41:04Z",
+      "pushed_at": "2026-11-24T14:32:25Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164903"
+      "crawled_at": "2026-11-25T10:48:56.828932"
     },
     {
       "name": "alchaincyf/nuwa-skill",
@@ -812,8 +812,8 @@
       "link": "https://github.com/alchaincyf/nuwa-skill",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 38933,
-      "forks": 4955,
+      "stars": 39009,
+      "forks": 4964,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -839,7 +839,7 @@
       ],
       "pushed_at": "2026-11-21T09:57:56Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164923"
+      "crawled_at": "2026-11-25T10:48:56.828958"
     },
     {
       "name": "VoltAgent/awesome-agent-skills",
@@ -847,8 +847,8 @@
       "link": "https://github.com/VoltAgent/awesome-agent-skills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 37505,
-      "forks": 4212,
+      "stars": 37533,
+      "forks": 4221,
       "language": "",
       "topics": [
         "agent-skills",
@@ -866,7 +866,7 @@
       ],
       "pushed_at": "2026-11-15T18:23:24Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164935"
+      "crawled_at": "2026-11-25T10:48:56.828975"
     },
     {
       "name": "nanocoai/nanoclaw",
@@ -874,8 +874,8 @@
       "link": "https://github.com/nanocoai/nanoclaw",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 31151,
-      "forks": 12630,
+      "stars": 31159,
+      "forks": 12623,
       "language": "TypeScript",
       "topics": [
         "ai-agents",
@@ -889,9 +889,9 @@
         "opencode",
         "self-hosted"
       ],
-      "pushed_at": "2026-11-24T10:05:17Z",
+      "pushed_at": "2026-11-25T00:42:21Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164966"
+      "crawled_at": "2026-11-25T10:48:56.828996"
     },
     {
       "name": "alchaincyf/huashu-design",
@@ -899,8 +899,8 @@
       "link": "https://github.com/alchaincyf/huashu-design",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 30780,
-      "forks": 3266,
+      "stars": 30910,
+      "forks": 3277,
       "language": "HTML",
       "topics": [
         "agent-skills",
@@ -926,7 +926,7 @@
       ],
       "pushed_at": "2026-11-23T06:13:20Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.164985"
+      "crawled_at": "2026-11-25T10:48:56.829020"
     },
     {
       "name": "alirezarezvani/claude-skills",
@@ -934,8 +934,8 @@
       "link": "https://github.com/alirezarezvani/claude-skills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 30400,
-      "forks": 4200,
+      "stars": 30456,
+      "forks": 4198,
       "language": "Python",
       "topics": [
         "agent-plugins",
@@ -959,9 +959,9 @@
         "openclaw-skills",
         "prompt-engineering"
       ],
-      "pushed_at": "2026-11-23T05:14:24Z",
+      "pushed_at": "2026-11-25T05:05:44Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165009"
+      "crawled_at": "2026-11-25T10:48:56.829059"
     },
     {
       "name": "OthmanAdi/planning-with-files",
@@ -969,8 +969,8 @@
       "link": "https://github.com/OthmanAdi/planning-with-files",
       "category": "Document Parsing",
       "source": "github-trending",
-      "stars": 28214,
-      "forks": 2331,
+      "stars": 28227,
+      "forks": 2332,
       "language": "Shell",
       "topics": [
         "agent-skills",
@@ -994,9 +994,9 @@
         "planning",
         "session-recovery"
       ],
-      "pushed_at": "2026-11-23T11:57:04Z",
+      "pushed_at": "2026-11-25T07:04:43Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165017"
+      "crawled_at": "2026-11-25T10:48:56.829072"
     },
     {
       "name": "JimLiu/baoyu-skills",
@@ -1004,8 +1004,8 @@
       "link": "https://github.com/JimLiu/baoyu-skills",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 27852,
-      "forks": 3019,
+      "stars": 27871,
+      "forks": 3020,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -1015,7 +1015,7 @@
       ],
       "pushed_at": "2026-11-20T05:47:41Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165024"
+      "crawled_at": "2026-11-25T10:48:56.829082"
     },
     {
       "name": "titanwings/distilly",
@@ -1023,8 +1023,8 @@
       "link": "https://github.com/titanwings/distilly",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 26823,
-      "forks": 2288,
+      "stars": 26852,
+      "forks": 2289,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -1049,7 +1049,7 @@
       ],
       "pushed_at": "2026-10-13T05:57:17Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165040"
+      "crawled_at": "2026-11-25T10:48:56.829106"
     },
     {
       "name": "google/elephant-goldfish-model",
@@ -1057,8 +1057,8 @@
       "link": "https://github.com/google/elephant-goldfish-model",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 22524,
-      "forks": 1661,
+      "stars": 22866,
+      "forks": 1686,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -1078,9 +1078,9 @@
         "prompt-engineering",
         "spec-driven-development"
       ],
-      "pushed_at": "2026-11-23T19:10:30Z",
+      "pushed_at": "2026-11-24T21:22:54Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165051"
+      "crawled_at": "2026-11-25T10:48:56.829122"
     },
     {
       "name": "latent-spaces/brag",
@@ -1088,8 +1088,8 @@
       "link": "https://github.com/latent-spaces/brag",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 22416,
-      "forks": 1743,
+      "stars": 22524,
+      "forks": 1748,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -1101,7 +1101,7 @@
       ],
       "pushed_at": "2026-11-15T17:07:46Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165058"
+      "crawled_at": "2026-11-25T10:48:56.829132"
     },
     {
       "name": "Vincentwei1021/video-shotcraft",
@@ -1109,8 +1109,8 @@
       "link": "https://github.com/Vincentwei1021/video-shotcraft",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 22373,
-      "forks": 2062,
+      "stars": 22515,
+      "forks": 2075,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -1128,9 +1128,9 @@
         "video-generation",
         "video-production"
       ],
-      "pushed_at": "2026-11-24T08:09:03Z",
+      "pushed_at": "2026-11-25T10:01:07Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165072"
+      "crawled_at": "2026-11-25T10:48:56.829152"
     },
     {
       "name": "elementalsouls/Claude-BugHunter",
@@ -1138,8 +1138,8 @@
       "link": "https://github.com/elementalsouls/Claude-BugHunter",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 20601,
-      "forks": 2177,
+      "stars": 22154,
+      "forks": 2284,
       "language": "Python",
       "topics": [
         "ai-security",
@@ -1159,9 +1159,9 @@
         "security-tools",
         "web-security"
       ],
-      "pushed_at": "2026-11-24T10:43:35Z",
+      "pushed_at": "2026-11-25T04:26:49Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165084"
+      "crawled_at": "2026-11-25T10:48:56.829170"
     },
     {
       "name": "teng-lin/notebooklm-py",
@@ -1169,8 +1169,8 @@
       "link": "https://github.com/teng-lin/notebooklm-py",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 20364,
-      "forks": 2700,
+      "stars": 20363,
+      "forks": 2701,
       "language": "Python",
       "topics": [
         "agentic-skill",
@@ -1188,9 +1188,9 @@
         "sdk",
         "skills"
       ],
-      "pushed_at": "2026-11-24T00:38:12Z",
+      "pushed_at": "2026-11-24T16:25:35Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165101"
+      "crawled_at": "2026-11-25T10:48:56.829193"
     },
     {
       "name": "nidhinjs/prompt-master",
@@ -1198,7 +1198,7 @@
       "link": "https://github.com/nidhinjs/prompt-master",
       "category": "AI Agent Skill",
       "source": "github-trending",
-      "stars": 16285,
+      "stars": 16310,
       "forks": 1869,
       "language": "",
       "topics": [
@@ -1209,33 +1209,7 @@
       ],
       "pushed_at": "2026-10-22T13:26:18Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165110"
-    },
-    {
-      "name": "travisvn/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
-      "link": "https://github.com/travisvn/awesome-claude-skills",
-      "category": "Image Generation",
-      "source": "github-trending",
-      "stars": 15924,
-      "forks": 2190,
-      "language": "",
-      "topics": [
-        "agentic-coding",
-        "anthropic",
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-desktop",
-        "claude-skills",
-        "claudeskills"
-      ],
-      "pushed_at": "2026-04-28T19:30:24Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:00.165119"
+      "crawled_at": "2026-11-25T10:48:56.829206"
     },
     {
       "name": "nexu-io/openmotion",
@@ -1243,8 +1217,8 @@
       "link": "https://github.com/nexu-io/openmotion",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 15890,
-      "forks": 1585,
+      "stars": 16174,
+      "forks": 1609,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -1268,9 +1242,51 @@
         "video-editing",
         "video-generation"
       ],
-      "pushed_at": "2026-11-24T11:56:56Z",
+      "pushed_at": "2026-11-25T10:46:15Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762814"
+      "crawled_at": "2026-11-25T10:49:00.158866"
+    },
+    {
+      "name": "travisvn/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+      "link": "https://github.com/travisvn/awesome-claude-skills",
+      "category": "Image Generation",
+      "source": "github-trending",
+      "stars": 15931,
+      "forks": 2193,
+      "language": "",
+      "topics": [
+        "agentic-coding",
+        "anthropic",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-desktop",
+        "claude-skills",
+        "claudeskills"
+      ],
+      "pushed_at": "2026-04-28T19:30:24Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:48:56.829221"
+    },
+    {
+      "name": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "link": "https://github.com/dotnet/skills",
+      "category": "Development Tooling",
+      "source": "github-trending",
+      "stars": 6359,
+      "forks": 510,
+      "language": "C#",
+      "topics": [
+        "agent-skills"
+      ],
+      "pushed_at": "2026-11-25T10:43:07Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158956"
     },
     {
       "name": "ciembor/agent-rules-books",
@@ -1278,8 +1294,8 @@
       "link": "https://github.com/ciembor/agent-rules-books",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 3348,
-      "forks": 589,
+      "stars": 3359,
+      "forks": 591,
       "language": "",
       "topics": [
         "agent-rules",
@@ -1304,7 +1320,7 @@
       ],
       "pushed_at": "2026-09-10T11:21:47Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217136"
+      "crawled_at": "2026-11-25T10:48:57.986207"
     },
     {
       "name": "zanwei/design-dna",
@@ -1312,8 +1328,8 @@
       "link": "https://github.com/zanwei/design-dna",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 2151,
-      "forks": 118,
+      "stars": 2155,
+      "forks": 119,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -1329,7 +1345,7 @@
       ],
       "pushed_at": "2026-08-28T01:58:49Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217152"
+      "crawled_at": "2026-11-25T10:48:57.986228"
     },
     {
       "name": "dpearson2699/swift-ios-skills",
@@ -1337,7 +1353,7 @@
       "link": "https://github.com/dpearson2699/swift-ios-skills",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 1316,
+      "stars": 1321,
       "forks": 65,
       "language": "Python",
       "topics": [
@@ -1364,7 +1380,7 @@
       ],
       "pushed_at": "2026-07-31T20:22:45Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217164"
+      "crawled_at": "2026-11-25T10:48:57.986245"
     },
     {
       "name": "repowise-dev/claude-code-prompts",
@@ -1372,8 +1388,8 @@
       "link": "https://github.com/repowise-dev/claude-code-prompts",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 1236,
-      "forks": 394,
+      "stars": 1235,
+      "forks": 393,
       "language": "",
       "topics": [
         "ai-coding-agent",
@@ -1393,7 +1409,7 @@
       ],
       "pushed_at": "2026-05-11T16:20:18Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217184"
+      "crawled_at": "2026-11-25T10:48:57.986278"
     },
     {
       "name": "ayi-ai/nie-grassroots-logic",
@@ -1401,7 +1417,7 @@
       "link": "https://github.com/ayi-ai/nie-grassroots-logic",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 580,
+      "stars": 581,
       "forks": 67,
       "language": "HTML",
       "topics": [
@@ -1413,7 +1429,7 @@
       ],
       "pushed_at": "2026-08-10T13:45:22Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217194"
+      "crawled_at": "2026-11-25T10:48:57.986293"
     },
     {
       "name": "mxyhi/ok-skills",
@@ -1444,7 +1460,7 @@
       ],
       "pushed_at": "2026-11-20T16:50:03Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217209"
+      "crawled_at": "2026-11-25T10:48:57.986313"
     },
     {
       "name": "guiguiyan930-source/game-ui-design-workflow",
@@ -1452,7 +1468,7 @@
       "link": "https://github.com/guiguiyan930-source/game-ui-design-workflow",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 477,
+      "stars": 479,
       "forks": 69,
       "language": "Python",
       "topics": [
@@ -1466,7 +1482,7 @@
       ],
       "pushed_at": "2026-08-05T02:53:33Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217220"
+      "crawled_at": "2026-11-25T10:48:57.986329"
     },
     {
       "name": "jabrena/plinth",
@@ -1474,7 +1490,7 @@
       "link": "https://github.com/jabrena/plinth",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 466,
+      "stars": 467,
       "forks": 97,
       "language": "Java",
       "topics": [
@@ -1500,7 +1516,7 @@
       ],
       "pushed_at": "2026-11-24T05:09:24Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217233"
+      "crawled_at": "2026-11-25T10:48:57.986346"
     },
     {
       "name": "testdino-hq/playwright-skill",
@@ -1528,7 +1544,7 @@
       ],
       "pushed_at": "2026-11-16T05:35:56Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217244"
+      "crawled_at": "2026-11-25T10:48:57.986360"
     },
     {
       "name": "arvindrk/extract-design-system",
@@ -1536,8 +1552,8 @@
       "link": "https://github.com/arvindrk/extract-design-system",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 295,
-      "forks": 33,
+      "stars": 307,
+      "forks": 34,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -1563,7 +1579,7 @@
       ],
       "pushed_at": "2026-09-05T00:23:05Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217258"
+      "crawled_at": "2026-11-25T10:48:57.986380"
     },
     {
       "name": "MarcoNasi/AI-Skills",
@@ -1571,7 +1587,7 @@
       "link": "https://github.com/MarcoNasi/AI-Skills",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 291,
+      "stars": 292,
       "forks": 45,
       "language": "",
       "topics": [
@@ -1591,7 +1607,7 @@
       ],
       "pushed_at": "2026-09-25T06:19:08Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217269"
+      "crawled_at": "2026-11-25T10:48:57.986420"
     },
     {
       "name": "seb1n/awesome-ai-agent-skills",
@@ -1600,7 +1616,7 @@
       "category": "Development Tooling",
       "source": "github-trending",
       "stars": 261,
-      "forks": 51,
+      "forks": 54,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -1626,7 +1642,7 @@
       ],
       "pushed_at": "2026-08-09T22:29:16Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217287"
+      "crawled_at": "2026-11-25T10:48:57.986455"
     },
     {
       "name": "dembrandt/dembrandt-skills",
@@ -1634,8 +1650,8 @@
       "link": "https://github.com/dembrandt/dembrandt-skills",
       "category": "Web Design",
       "source": "github-trending",
-      "stars": 227,
-      "forks": 27,
+      "stars": 232,
+      "forks": 28,
       "language": "JavaScript",
       "topics": [
         "accessibility",
@@ -1658,9 +1674,9 @@
         "ux",
         "wcag"
       ],
-      "pushed_at": "2026-11-21T22:09:08Z",
+      "pushed_at": "2026-11-24T19:43:22Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217297"
+      "crawled_at": "2026-11-25T10:48:57.986470"
     },
     {
       "name": "hqhq1025/skill-optimizer",
@@ -1694,7 +1710,7 @@
       ],
       "pushed_at": "2026-05-14T07:25:31Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217310"
+      "crawled_at": "2026-11-25T10:48:57.986490"
     },
     {
       "name": "erfnzdeh/arvancloud-agent-skill",
@@ -1724,7 +1740,7 @@
       ],
       "pushed_at": "2026-09-28T13:35:13Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217321"
+      "crawled_at": "2026-11-25T10:48:57.986505"
     },
     {
       "name": "meshy-dev/meshy-3d-agent",
@@ -1732,7 +1748,7 @@
       "link": "https://github.com/meshy-dev/meshy-3d-agent",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 123,
+      "stars": 125,
       "forks": 32,
       "language": "JavaScript",
       "topics": [
@@ -1749,7 +1765,7 @@
       ],
       "pushed_at": "2026-11-18T16:24:36Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217326"
+      "crawled_at": "2026-11-25T10:48:57.986514"
     },
     {
       "name": "Jordanwei1/jiaojie-skill",
@@ -1784,7 +1800,7 @@
       ],
       "pushed_at": "2026-08-20T13:47:18Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217341"
+      "crawled_at": "2026-11-25T10:48:57.986538"
     },
     {
       "name": "lintsinghua/paint-mv-skills",
@@ -1792,7 +1808,7 @@
       "link": "https://github.com/lintsinghua/paint-mv-skills",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 88,
+      "stars": 90,
       "forks": 15,
       "language": "JavaScript",
       "topics": [
@@ -1815,7 +1831,7 @@
       ],
       "pushed_at": "2026-09-29T08:30:01Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217349"
+      "crawled_at": "2026-11-25T10:48:57.986550"
     },
     {
       "name": "Desko77/cursor-1c-skills",
@@ -1824,7 +1840,7 @@
       "category": "Development Tooling",
       "source": "github-trending",
       "stars": 77,
-      "forks": 18,
+      "forks": 19,
       "language": "Python",
       "topics": [
         "1c",
@@ -1844,7 +1860,7 @@
       ],
       "pushed_at": "2026-11-23T15:28:28Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217362"
+      "crawled_at": "2026-11-25T10:48:57.986571"
     },
     {
       "name": "xuliang2024/video_skills",
@@ -1869,7 +1885,7 @@
       ],
       "pushed_at": "2026-02-23T03:03:40Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217369"
+      "crawled_at": "2026-11-25T10:48:57.986584"
     },
     {
       "name": "jin-s13/ai-research-writing-skill",
@@ -1877,7 +1893,7 @@
       "link": "https://github.com/jin-s13/ai-research-writing-skill",
       "category": "Development Tooling",
       "source": "github-trending",
-      "stars": 69,
+      "stars": 70,
       "forks": 11,
       "language": "Python",
       "topics": [
@@ -1898,7 +1914,7 @@
       ],
       "pushed_at": "2026-10-18T18:26:20Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217387"
+      "crawled_at": "2026-11-25T10:48:57.986611"
     },
     {
       "name": "UseOSINT/Skills",
@@ -1933,373 +1949,257 @@
       ],
       "pushed_at": "2026-08-03T00:38:10Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:01.217403"
+      "crawled_at": "2026-11-25T10:48:57.986637"
     },
     {
-      "name": "arcasilesgroup/ai-engineering",
-      "description": "Developer-centered AI engineering: build software with security, quality and governance. One local binary under the agent you already run",
-      "link": "https://github.com/arcasilesgroup/ai-engineering",
-      "category": "Web Design",
-      "source": "github-trending",
-      "stars": 65,
-      "forks": 3,
-      "language": "TypeScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-governance",
-        "bun",
-        "claude-code",
-        "codex",
-        "cursor",
-        "developer-tools",
-        "devsecops",
-        "github-copilot",
-        "opencode"
-      ],
-      "pushed_at": "2026-11-24T11:56:48Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762692"
-    },
-    {
-      "name": "AlemTuzlak/skills",
-      "description": "Personal AI agent skills for Claude Code, Copilot, Codex, Gemini & Cursor — turn a PR or idea into marketing content, technical Slidev presentations, courses, changelogs, and rendered videos.",
-      "link": "https://github.com/AlemTuzlak/skills",
+      "name": "Ludo-AI/ludo-cli",
+      "description": "Ludo AI CLI for humans and coding agents: generate game sprites, animations, 3D models, video and audio, plus 32 free offline tools for spritesheets, pivots, colliders, Godot/Unity/Phaser export and audio checks. Works with Claude Code, Codex, Cursor and Gemini CLI.",
+      "link": "https://github.com/Ludo-AI/ludo-cli",
       "category": "Image Generation",
       "source": "github-trending",
-      "stars": 45,
+      "stars": 18,
+      "forks": 2,
+      "language": "TypeScript",
+      "topics": [
+        "3d-models",
+        "agent-skills",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "game-assets",
+        "game-development",
+        "gamedev",
+        "gemini-cli-extension",
+        "godot",
+        "mcp",
+        "phaser",
+        "pixel-art",
+        "sprite-tools",
+        "sprites",
+        "spritesheet",
+        "texture-atlas",
+        "tileset",
+        "unity"
+      ],
+      "pushed_at": "2026-11-25T10:48:50Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158691"
+    },
+    {
+      "name": "subclip-app/community-video-editing-skills",
+      "description": "Community video editing skills for AI agents. Install it via the url, or npx commands or inside Subclip App, submit your skill to this directory as well if you want to :)",
+      "link": "https://github.com/subclip-app/community-video-editing-skills",
+      "category": "Image Generation",
+      "source": "github-trending",
+      "stars": 4,
       "forks": 0,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
         "ai-agents",
-        "anthropic",
-        "changelog",
-        "claude",
+        "ai-video",
+        "ai-video-editor",
         "claude-code",
         "codex",
-        "copilot",
+        "community",
         "cursor",
-        "gemini-cli",
-        "llm",
-        "marketing",
-        "presentations",
-        "skills",
-        "slidev"
-      ],
-      "pushed_at": "2026-11-24T11:56:09Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762760"
-    },
-    {
-      "name": "tedix-hq/tedix",
-      "description": "A platform for agents, apps, and work. Coordinate people and AI agents with shared tasks, project knowledge, apps, and approvals.",
-      "link": "https://github.com/tedix-hq/tedix",
-      "category": "Development Tooling",
-      "source": "github-trending",
-      "stars": 44,
-      "forks": 1,
-      "language": "TypeScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "cloudflare-workers",
-        "codex",
-        "developer-tools",
+        "hyperframes",
         "mcp",
-        "mcp-server",
-        "task-management",
-        "typescript",
-        "workflow-automation"
+        "motion-graphics",
+        "remotion",
+        "skills",
+        "subclip",
+        "text-to-video",
+        "video-editing",
+        "video-editing-skills"
       ],
-      "pushed_at": "2026-11-24T11:56:17Z",
+      "pushed_at": "2026-11-25T10:43:30Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762928"
+      "crawled_at": "2026-11-25T10:49:00.158924"
     },
     {
-      "name": "2104178150-ai/megaphone",
-      "description": "README checker & launch checklist for open-source projects and Agent Skills: readiness score, rule-checked posts for HN, Reddit, V2EX, 小红书 · 开源项目 README 体检与发布推广",
-      "link": "https://github.com/2104178150-ai/megaphone",
-      "category": "Development Tooling",
-      "source": "github-trending",
-      "stars": 6,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "claude-skills",
-        "developer-tools",
-        "github",
-        "growth",
-        "hacker-news",
-        "indie-hacker",
-        "launch",
-        "launch-checklist",
-        "marketing",
-        "open-source",
-        "product-hunt",
-        "product-launch",
-        "readme",
-        "readme-checker",
-        "v2ex",
-        "xiaohongshu"
-      ],
-      "pushed_at": "2026-11-24T11:52:05Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762909"
-    },
-    {
-      "name": "adrianhaj/bogusz",
-      "description": "Claude Code plugin that tests your project like a senior QA engineer: it reads the code, plans the tests, runs the narrowest ones and reports only what the evidence shows.",
-      "link": "https://github.com/adrianhaj/bogusz",
-      "category": "Development Tooling",
-      "source": "github-trending",
-      "stars": 5,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "claude-code-plugin",
-        "qa",
-        "testing"
-      ],
-      "pushed_at": "2026-11-24T11:51:34Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762947"
-    },
-    {
-      "name": "xizon/Makelier",
-      "description": "A web creation toolkit for developers. Build interactive websites with clean, maintainable HTML and built-in AI Agent support. One npx command downloads the HTML website template of any published Makelier Site — ready to run locally, customize, integrate, and deploy.",
-      "link": "https://github.com/xizon/Makelier",
+      "name": "round3ai/skills",
+      "description": "Official three.dev agent plugin, by round3: skills and MCP server for Claude Code, Codex, Cursor and more",
+      "link": "https://github.com/round3ai/skills",
       "category": "3D / Three.js",
       "source": "github-trending",
       "stars": 3,
       "forks": 0,
-      "language": "TypeScript",
+      "language": "Shell",
       "topics": [
         "agent-skills",
-        "agentic-ai",
-        "agentic-workflow",
-        "ai-agents",
-        "frontend",
-        "frontend-development",
-        "gsap",
-        "html-css-javascript",
-        "html-templates",
-        "interaction-design",
-        "interactive",
-        "interactive-ui",
-        "responsive-design",
-        "responsive-web-design",
-        "static-site",
-        "static-site-generator",
-        "tailwind-css",
-        "tailwindcss",
-        "three-js",
-        "workflow"
+        "llm-observability",
+        "mcp",
+        "skills",
+        "three-dev",
+        "tracing"
       ],
-      "pushed_at": "2026-11-24T11:54:41Z",
+      "pushed_at": "2026-11-25T10:43:46Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762792"
+      "crawled_at": "2026-11-25T10:49:00.158904"
     },
     {
-      "name": "linhvu0711/skills",
-      "description": "Skills, agents, and hooks for AI coding agents: plan, build, review, and ship work across harnesses.",
-      "link": "https://github.com/linhvu0711/skills",
+      "name": "abdelrahmannasr/yadflow",
+      "description": "Yadflow (yad = يد, \"hand\") — the governance layer for AI-assisted development: AI builds, a human hand clears every gate. Gated, team, multi-repo author → review → build, with a PR-driven review gate, CI gates and a zero-dependency `yad` CLI. Agent-agnostic: 41 skills run in Claude Code, Codex, Cursor, Copilot, Gemini CLI and more.",
+      "link": "https://github.com/abdelrahmannasr/yadflow",
+      "category": "Web Design",
+      "source": "github-trending",
+      "stars": 3,
+      "forks": 2,
+      "language": "JavaScript",
+      "topics": [
+        "adlc",
+        "agent-skills",
+        "agents-md",
+        "ai-agents",
+        "ai-assisted-development",
+        "ai-code-review",
+        "ai-governance",
+        "ai-sdlc",
+        "claude-code",
+        "cli",
+        "code-review",
+        "codex-cli",
+        "developer-tools",
+        "gated-workflow",
+        "multi-repo",
+        "sdlc",
+        "software-delivery",
+        "spec-driven-development",
+        "workflow",
+        "yadflow"
+      ],
+      "pushed_at": "2026-11-25T10:42:49Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158994"
+    },
+    {
+      "name": "morebyfaiz/morebyfaiz",
+      "description": "Open-source AI agents, agent skills and developer tools - templates, playbooks and experiments, built in public.",
+      "link": "https://github.com/morebyfaiz/morebyfaiz",
       "category": "Web Design",
       "source": "github-trending",
       "stars": 2,
       "forks": 0,
-      "language": "Shell",
+      "language": "",
       "topics": [
         "agent-skills",
         "ai-agents",
-        "antigravity",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "python"
+      ],
+      "pushed_at": "2026-11-25T10:43:18Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158932"
+    },
+    {
+      "name": "meetshiro/shiro-mcp",
+      "description": "Official connection configuration for Shiro's hosted MCP server: work on your book with any agent.",
+      "link": "https://github.com/meetshiro/shiro-mcp",
+      "category": "Development Tooling",
+      "source": "github-trending",
+      "stars": 1,
+      "forks": 0,
+      "language": "",
+      "topics": [
+        "agent-skills",
+        "claude-code-plugin",
+        "gemini-cli-extension",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "novel-writing",
+        "remote-mcp",
+        "writing"
+      ],
+      "pushed_at": "2026-11-25T10:46:25Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158843"
+    },
+    {
+      "name": "abhishakec/archistry",
+      "description": "Architect-grade Salesforce diagrams for AI agents: 40 diagram types as editable draw.io and interactive HTML, with PNG/JPG/SVG export.",
+      "link": "https://github.com/abhishakec/archistry",
+      "category": "Image Generation",
+      "source": "github-trending",
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "agentforce",
+        "architecture-diagrams",
         "claude-code",
-        "codex",
+        "data-cloud",
+        "diagrams",
+        "drawio",
+        "erd",
+        "salesforce",
+        "salesforce-architect"
+      ],
+      "pushed_at": "2026-11-25T10:44:49Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158876"
+    },
+    {
+      "name": "depuschm/christian-guidelines",
+      "description": "Reference-first, ecumenical guidelines for Christian faith and life: rules where the churches agree, a guide to every book of the Bible including the deuterocanon, and what each church tradition teaches. Every rule cites Scripture and the churches' own teaching. Includes AI agent skills for asking what the Bible and the churches teach.",
+      "link": "https://github.com/depuschm/christian-guidelines",
+      "category": "Web Design",
+      "source": "github-trending",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "apocrypha",
+        "best-practices",
+        "bible",
+        "bible-study",
+        "christian",
+        "christian-ethics",
+        "christianity",
+        "church",
+        "claude-code",
+        "claude-skills",
+        "deuterocanon",
+        "discipleship",
+        "ecumenism",
+        "faith",
+        "new-testament",
+        "old-testament",
+        "religion",
+        "scripture",
+        "theology"
+      ],
+      "pushed_at": "2026-11-25T10:48:06Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158788"
+    },
+    {
+      "name": "lukeramsden/papercuts-agent-skill",
+      "description": "Portable agent skill for developer friction: guided setup, local files, S3/R2, GCS, SQLite and custom storage adapters",
+      "link": "https://github.com/lukeramsden/papercuts-agent-skill",
+      "category": "Web Design",
+      "source": "github-trending",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "cloudflare-r2",
         "coding-agents",
         "developer-tools",
-        "hooks",
-        "subagents"
+        "gcs",
+        "papercuts",
+        "s3"
       ],
-      "pushed_at": "2026-11-24T11:55:18Z",
+      "pushed_at": "2026-11-25T10:47:35Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762768"
-    },
-    {
-      "name": "rig-c/create",
-      "description": "Projects for rig-c: the user's direction, an interview and a signed plan before any rigging",
-      "link": "https://github.com/rig-c/create",
-      "category": "Development Tooling",
-      "source": "github-trending",
-      "stars": 1,
-      "forks": 0,
-      "language": "TypeScript",
-      "topics": [
-        "2d-animation",
-        "agent-skills",
-        "ai-agents",
-        "bun",
-        "claude-code",
-        "project-template",
-        "rig-c",
-        "rigging",
-        "scaffolding",
-        "spine",
-        "spine2d",
-        "typescript"
-      ],
-      "pushed_at": "2026-11-24T11:53:33Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762838"
-    },
-    {
-      "name": "skillsforbots/grok-bot-skills",
-      "description": "Free Grok Bot skill and AI agent skill template (SKILL.md) with no-send / no-spend safety rules and a handoff note; premium packs for a bot fleet, reminders, and a credit coach.",
-      "link": "https://github.com/skillsforbots/grok-bot-skills",
-      "category": "Development Tooling",
-      "source": "github-trending",
-      "stars": 1,
-      "forks": 0,
-      "language": "",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "automation",
-        "bot-fleet",
-        "claude-skills",
-        "grok",
-        "grok-bot",
-        "llm",
-        "prompt-engineering",
-        "prompt-templates",
-        "reminders",
-        "routines",
-        "skill-md",
-        "skills",
-        "templates"
-      ],
-      "pushed_at": "2026-11-24T11:56:19Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762746"
-    },
-    {
-      "name": "thelastscraper/short-term-rental-agent",
-      "description": "Short Term Rental Agent: a Claude skill and Grok template that analyzes Airbnb and hotel markets with live data via Apify. Comp sets for hosts, channel prices, portfolio checks and investor market scans.",
-      "link": "https://github.com/thelastscraper/short-term-rental-agent",
-      "category": "Development Tooling",
-      "source": "github-trending",
-      "stars": 1,
-      "forks": 0,
-      "language": "",
-      "topics": [
-        "agent-skills",
-        "airbnb",
-        "airbnb-data",
-        "airbnb-data-analysis",
-        "airbnb-host",
-        "apify",
-        "claude-code-skills",
-        "claude-skill",
-        "claude-skills",
-        "mcp",
-        "short-term-rental",
-        "short-term-rental-analytics",
-        "short-term-rental-market-analysis",
-        "short-term-rental-research",
-        "short-term-rentals",
-        "vacation-rental",
-        "vacation-rental-analytics",
-        "vacation-rental-insights",
-        "vacation-rentals",
-        "vacation-rentals-data"
-      ],
-      "pushed_at": "2026-11-24T11:52:59Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762858"
-    },
-    {
-      "name": "haoranyoung09-sys/passguard-web-agent",
-      "description": "Isolated, credential-safe web automation Skill & MCP server for AI agents — out-of-band OS confirmation, effect-based write gate, task contracts, taint tracking & HMAC audit logs.",
-      "link": "https://github.com/haoranyoung09-sys/passguard-web-agent",
-      "category": "Web Design",
-      "source": "github-trending",
-      "stars": 1,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-agent",
-        "ai-security",
-        "browser-automation",
-        "human-in-the-loop",
-        "mcp-server",
-        "playwright",
-        "prompt-injection"
-      ],
-      "pushed_at": "2026-11-24T11:53:34Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762827"
-    },
-    {
-      "name": "mrcat71/harnessmd",
-      "description": "A macOS menu bar app to collect, version, compare, and restore coding-agent instructions and skills across local repositories.",
-      "link": "https://github.com/mrcat71/harnessmd",
-      "category": "Web Design",
-      "source": "github-trending",
-      "stars": 1,
-      "forks": 0,
-      "language": "Swift",
-      "topics": [
-        "agent-instructions",
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "developer-tools",
-        "macos",
-        "menu-bar-app",
-        "opencode",
-        "swift",
-        "swiftui",
-        "version-history"
-      ],
-      "pushed_at": "2026-11-24T11:52:25Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762917"
-    },
-    {
-      "name": "baespy/infrontofx-skill",
-      "description": "Skill pack for AI coding agents: FiveM Lua + NUI/DUI standard, linter, resource template, poster generator and weapon skin/ptfx tools.",
-      "link": "https://github.com/baespy/infrontofx-skill",
-      "category": "3D / Three.js",
-      "source": "github-trending",
-      "stars": 0,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "blender",
-        "claude-code",
-        "codex",
-        "fivem",
-        "fivem-resource",
-        "fivem-scripts",
-        "gta-v",
-        "linter",
-        "lua",
-        "nui",
-        "ox-lib",
-        "ptfx"
-      ],
-      "pushed_at": "2026-11-24T11:52:35Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762882"
+      "crawled_at": "2026-11-25T10:49:00.158800"
     },
     {
       "name": "anthropics/brand-guidelines",
@@ -2446,53 +2346,27 @@
       "crawled_at": "2026-02-02T17:07:33.814751"
     },
     {
-      "name": "carlos-dataengineer/fala-clara",
-      "description": "Skill que faz o Claude conversar como gente: claro, curto, com exemplo da sua vida, honesto quando não sabe e com postura de coach. Sempre ativa.",
-      "link": "https://github.com/carlos-dataengineer/fala-clara",
+      "name": "git-sparrow/skills",
+      "description": "Personal agent skills for Claude Code and Codex",
+      "link": "https://github.com/git-sparrow/skills",
       "category": "Development Tooling",
       "source": "github-trending",
       "stars": 0,
       "forks": 0,
-      "language": "PowerShell",
+      "language": "JavaScript",
       "topics": [
         "agent-skills",
-        "claude",
         "claude-code",
-        "claude-skills",
-        "coaching",
-        "codex",
-        "plain-language",
-        "pt-br"
+        "codex"
       ],
-      "pushed_at": "2026-11-24T11:56:33Z",
+      "pushed_at": "2026-11-25T10:45:06Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762733"
+      "crawled_at": "2026-11-25T10:49:00.158887"
     },
     {
-      "name": "d43pan/open-local",
-      "description": "Local knowledge is a public good. An open registry of where local information lives, and skills that let any AI agent answer questions about a place with facts and sources.",
-      "link": "https://github.com/d43pan/open-local",
-      "category": "Development Tooling",
-      "source": "github-trending",
-      "stars": 0,
-      "forks": 0,
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "civic-tech",
-        "claude-skills",
-        "local-news",
-        "open-data",
-        "rss"
-      ],
-      "pushed_at": "2026-11-24T11:55:35Z",
-      "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762892"
-    },
-    {
-      "name": "mirackacmazcom/seo-skills",
-      "description": "Free SEO skills and Claude Code plugin for Claude, Codex, Cursor and other AI agents. Answers SEO questions from the Google leak, Google patents, AI and LLM patents, official Google Search docs and Google staff statements, with sources. Also a remote MCP server.",
-      "link": "https://github.com/mirackacmazcom/seo-skills",
+      "name": "milad-ahmd/domain-modeler",
+      "description": "📖 Glossary, aggregates and bounded contexts grounded in your code's real names; flags synonym drift - Agent Skill for Claude Code, Cline, Cursor, Codex",
+      "link": "https://github.com/milad-ahmd/domain-modeler",
       "category": "Development Tooling",
       "source": "github-trending",
       "stars": 0,
@@ -2501,49 +2375,101 @@
       "topics": [
         "agent-skills",
         "ai-agents",
-        "ai-overviews",
-        "anthropic",
-        "claude",
         "claude-code",
-        "claude-code-plugin",
+        "claude-skills",
+        "cline",
+        "cursor",
+        "skill-md"
+      ],
+      "pushed_at": "2026-11-25T10:48:37Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158749"
+    },
+    {
+      "name": "milad-ahmd/issue-triage",
+      "description": "🏷️ Triage open GitHub issues: duplicates, missing repro info, stale threads, labels and priority, writes on approval - Agent Skill for Claude Code, Cline, Cursor, Codex",
+      "link": "https://github.com/milad-ahmd/issue-triage",
+      "category": "Development Tooling",
+      "source": "github-trending",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-skills",
+        "cline",
+        "cursor",
+        "skill-md"
+      ],
+      "pushed_at": "2026-11-25T10:48:21Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158769"
+    },
+    {
+      "name": "morebyfaiz/skill-shield",
+      "description": "Security scanner for AI agent skills - audit any SKILL.md pack for prompt injection, exfiltration and destructive commands before you install it. Works with Claude Code, Codex, Cursor, Gemini CLI and more.",
+      "link": "https://github.com/morebyfaiz/skill-shield",
+      "category": "Development Tooling",
+      "source": "github-trending",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-skills",
+        "claude-code",
         "claude-skills",
         "codex",
         "cursor",
-        "generative-engine-optimization",
-        "google-leak",
-        "google-patents",
-        "local-seo",
-        "mcp",
-        "mcp-server",
-        "search-engine-optimization",
-        "seo",
-        "seo-tools",
-        "technical-seo"
+        "gemini-cli",
+        "llm-security",
+        "prompt-injection",
+        "security-scanner",
+        "skill-security",
+        "supply-chain-security"
       ],
-      "pushed_at": "2026-11-24T11:52:43Z",
+      "pushed_at": "2026-11-25T10:43:15Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762874"
+      "crawled_at": "2026-11-25T10:49:00.158948"
     },
     {
-      "name": "RickCiviero/yardmaster",
-      "description": "Route each AI coding task to the cheapest model that does it well. Reads your Copilot, Claude Code and Codex history and writes model-routing config.",
-      "link": "https://github.com/RickCiviero/yardmaster",
+      "name": "rolee5293/WorkDeck",
+      "description": "WorkDeck is a local Codex skill and product manager simulation with categorized history and reviewable task changes.",
+      "link": "https://github.com/rolee5293/WorkDeck",
       "category": "Development Tooling",
       "source": "github-trending",
       "stars": 0,
       "forks": 0,
-      "language": "Python",
+      "language": "JavaScript",
       "topics": [
         "agent-skills",
-        "ai-agents",
-        "claude-code",
         "codex",
-        "github-copilot",
-        "model-routing"
+        "demo",
+        "local-first",
+        "mcp",
+        "product-management"
       ],
-      "pushed_at": "2026-11-24T11:50:35Z",
+      "pushed_at": "2026-11-25T10:46:29Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762938"
+      "crawled_at": "2026-11-25T10:49:00.158829"
+    },
+    {
+      "name": "shoji9x9/skills",
+      "description": "AI agent skill · 来自 GitHub 实时抓取（按 Star / 近期活跃排序）。",
+      "link": "https://github.com/shoji9x9/skills",
+      "category": "Development Tooling",
+      "source": "github-trending",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills"
+      ],
+      "pushed_at": "2026-11-25T10:45:09Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158851"
     },
     {
       "name": "alinaqi/claude-bootstrap",
@@ -2880,6 +2806,33 @@
       "category": "Document Creation",
       "source": "VoltAgent/awesome-agent-skills",
       "crawled_at": "2026-02-02T17:07:33.814751"
+    },
+    {
+      "name": "SudhirDevOps1/atlas-skill",
+      "description": "ATLAS - one master prompt + one portable agent skill: idea to researched, secure, tested, documented, deployable project with a single source of truth for versioning.",
+      "link": "https://github.com/SudhirDevOps1/atlas-skill",
+      "category": "Document Parsing",
+      "source": "github-trending",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "developer-tools",
+        "opencode",
+        "project-template",
+        "prompt-engineering",
+        "semver",
+        "versioning"
+      ],
+      "pushed_at": "2026-11-25T10:45:29Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158896"
     },
     {
       "name": "ComposioHQ/competitive-ads-extractor",
@@ -3794,42 +3747,39 @@
       "crawled_at": "2026-02-02T17:07:33.816746"
     },
     {
-      "name": "BuildsbyMatt/mentionagent-claude-skill",
-      "description": "MentionAgent link building outreach for AI agents over MCP: plugin and Agent Skill for Claude Code, Cursor, Codex, OpenClaw, Hermes Agent, Grok Build and Gemini CLI",
-      "link": "https://github.com/BuildsbyMatt/mentionagent-claude-skill",
+      "name": "desastreger/open-data-mcp-servers",
+      "description": "10 production Streamable HTTP MCP servers & Apify Actors for US/EU public registries (SEC Form D, KYB, GovCon, Building Permits, Tariffs, NPPES, DMARC, Code Violations, EPA ECHO, Clinical Trials & PubMed).",
+      "link": "https://github.com/desastreger/open-data-mcp-servers",
       "category": "Web Design",
       "source": "github-trending",
       "stars": 0,
       "forks": 0,
-      "language": "",
+      "language": "JavaScript",
       "topics": [
         "agent-skills",
-        "backlinks",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skill",
+        "apify",
+        "building-permits",
         "claude-skills",
-        "codex",
-        "cursor-plugin",
-        "gemini-cli-extension",
-        "grok-build",
-        "hermes-agent",
-        "link-building",
+        "clinical-trials",
+        "epa-echo",
+        "kyb",
+        "lead-generation",
         "mcp",
         "mcp-server",
-        "openclaw",
-        "openclaw-skills",
-        "outreach",
-        "seo"
+        "model-context-protocol",
+        "nppes",
+        "open-data",
+        "sec-edgar",
+        "skill-md"
       ],
-      "pushed_at": "2026-11-24T11:56:52Z",
+      "pushed_at": "2026-11-25T10:48:04Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762717"
+      "crawled_at": "2026-11-25T10:49:00.159008"
     },
     {
-      "name": "danielrosehill/YubiKey-Toolkit",
-      "description": "YubiKey setup and troubleshooting skills for Linux: browser prompts, PAM, SSH, PINs, TOTP, PIV, OpenPGP",
-      "link": "https://github.com/danielrosehill/YubiKey-Toolkit",
+      "name": "LonsnKc/agent-research-evolution",
+      "description": "A living, daily-updated research record on agent systems: API routing, agent harness, layered memory, and skills. 智能体系统调研持续进化：每日更新的总报告与四条轨道笔记。",
+      "link": "https://github.com/LonsnKc/agent-research-evolution",
       "category": "Web Design",
       "source": "github-trending",
       "stars": 0,
@@ -3837,17 +3787,21 @@
       "language": "",
       "topics": [
         "agent-skills",
-        "fido2",
-        "yubikey"
+        "ai-agents",
+        "linux-do",
+        "llm",
+        "memory-systems",
+        "model-routing",
+        "research-notes"
       ],
-      "pushed_at": "2026-11-24T11:55:12Z",
+      "pushed_at": "2026-11-25T10:46:35Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762775"
+      "crawled_at": "2026-11-25T10:49:00.158817"
     },
     {
-      "name": "rollingedition/agent-skills",
-      "description": "Rolling Edition's books as agent skills for Claude Code, Codex, Cursor and other coding agents: each book's methods as procedures, built from its current edition. Generated: correct a skill in its book's repository.",
-      "link": "https://github.com/rollingedition/agent-skills",
+      "name": "MhmdRayanm7/Sloperator",
+      "description": "A Python-based SlopLang interpreter featuring AI-assisted development, custom OpenCode agents, skills, plugins, automated testing, and a web playground.",
+      "link": "https://github.com/MhmdRayanm7/Sloperator",
       "category": "Web Design",
       "source": "github-trending",
       "stars": 0,
@@ -3855,14 +3809,44 @@
       "language": "Python",
       "topics": [
         "agent-skills",
-        "claude-code",
-        "claude-code-plugin",
+        "ai-agents",
+        "ai-coding",
+        "ast",
+        "automation",
+        "bootdev",
+        "interpreter",
+        "lexer",
         "mcp",
-        "technical-books"
+        "opencode",
+        "parser",
+        "playwright",
+        "programming-language",
+        "pytest",
+        "python",
+        "ruff"
       ],
-      "pushed_at": "2026-11-24T11:54:05Z",
+      "pushed_at": "2026-11-25T10:42:58Z",
       "trending": true,
-      "crawled_at": "2026-11-24T11:57:02.762802"
+      "crawled_at": "2026-11-25T10:49:00.158969"
+    },
+    {
+      "name": "Vorski-Imagineering/gogogo",
+      "description": "Run AI-driven development the same way in every repo: spec, build, verify, hand back",
+      "link": "https://github.com/Vorski-Imagineering/gogogo",
+      "category": "Web Design",
+      "source": "github-trending",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-development",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "pushed_at": "2026-11-25T10:43:36Z",
+      "trending": true,
+      "crawled_at": "2026-11-25T10:49:00.158913"
     },
     {
       "name": "czlonkowski/n8n-code-javascript",
@@ -3921,6 +3905,6 @@
       "crawled_at": "2026-02-02T17:07:33.816746"
     }
   ],
-  "total": 266,
-  "updated_at": "2026-11-24T11:57:02.763141"
+  "total": 267,
+  "updated_at": "2026-11-25T10:49:00.159228"
 }
